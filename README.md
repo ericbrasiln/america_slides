@@ -1,5 +1,7 @@
 # Slides da disciplinas CCLHM0057
 
+[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 Slides da disciplina CCLHM0057 - História da América: Colonização e Resistência
 
 Prof. Eric Brasil (IHLM/UNILAB)
@@ -22,4 +24,5 @@ Construido com [Reveal.js](https://github.com/hakimel/reveal.js).
 Versão atual, semestre 2021.1, no branch `main`.
 
 Licença MIT
+
 2021, Eric Brasil
