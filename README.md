@@ -10,19 +10,17 @@ Instituto de Humanidades e Letras, campus dos Malês, Universidade da Integraç�
 
 Disciplina obrigatória do curso de licenciatura em História
 
-Semestre: 2021.1
+Semestre: 2023.2
 
 Carga Horária:
 |Teórica | Prática como compontente curricular | Total |
 | ------ | ----------------------------------- | ----- |
 | 60h |	15h | 75h |
 
-Para informações completas da disciplina, acessar o site https://cclhm0057.netlify.app
-
 Construido com [Reveal.js](https://github.com/hakimel/reveal.js).
 
-Versão atual, semestre 2021.1, no branch `main`.
+Versão atual, semestre 2023.2, no branch `main`.
 
 Licença MIT
 
-2021, Eric Brasil
+2024, Eric Brasil
