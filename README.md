@@ -10,14 +10,14 @@ Instituto de Humanidades e Letras, campus dos Malês, Universidade da Integraç�
 
 Disciplina obrigatória do curso de licenciatura em História
 
-Semestre: 2024.1
+Semestre: 2024.2
 
 Carga Horária: 60h
 
 Construído com [Reveal.js](https://github.com/hakimel/reveal.js).
 
-Versão atual, semestre 2024.1, no branch `main`.
+Versão atual, semestre 2024.2, no branch `main`.
 
 Licença MIT
 
-2024, Eric Brasil
+2025, Eric Brasil
